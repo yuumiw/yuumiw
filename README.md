@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c6d7&height=100&section=header"/>
 
 <h2 align="center">🌸 Hello! I'm <strong>Fernanda Hiramoto</strong> 🐾</h2>
-<p align="center">A creative soul who loves design, front-end, and coding cute things 💖</p>
+<p align="center">A creative soul who loves design, front-end, and coding cute things ♡</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuumiw&style=flat-square&color=f4c6d7" alt="yuumiw" />
@@ -13,8 +13,9 @@
   <img src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif" width="250" />
 </p>
 
+<div align="center">
 <details>
-  <summary>▼ More Info</summary>
+  <summary> more info</summary>
   <br>
 
   <div align="center">
