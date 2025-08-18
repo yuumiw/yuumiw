@@ -1,7 +1,7 @@
 <!-- Banner superior -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c6d7&height=100&section=header"/>
 
-<h2 align="center">🌸 Hello! I'm <strong>Fernanda Hiramoto</strong> 🐾</h2>
+<h2 align="center">🌸 Olá! Me chamo <strong>Fernanda Hiramoto</strong> 🐾</h2>
 <p align="center">A creative soul who loves design, front-end, and coding cute things ♡</p>
 
 <p align="center">
