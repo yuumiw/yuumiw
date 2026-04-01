@@ -66,10 +66,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://puffiipixels.carrd.co/assets/images/gallery10/342c3d34_original.gif?v=6cf9d1bc"  />
-</div>
-
-###
