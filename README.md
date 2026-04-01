@@ -54,14 +54,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/fefe-170">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fefe-170&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h4 align="center">minhas redes sociais ୭ ˚. ᵎᵎ</h4>
 
 ###
